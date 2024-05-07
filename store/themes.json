@@ -6,34 +6,6 @@
       "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/913c5360-d13a-430b-bc51-a84097c04aad/images/bird.png",
       "marqueeImage": "https://source.unsplash.com/random",
       "id": "913c5360-d13a-430b-bc51-a84097c04aad"
-    },
-    {
-      "name": "Desert Oasis",
-      "description": "Feel the heat with this theme.",
-      "coverImage": "https://source.unsplash.com/random?2",
-      "marqueeImage": "https://source.unsplash.com/random?2",
-      "id": "adsgioashj"
-    },
-    {
-      "name": "Mountain Retreat",
-      "description": "Feel the cold with this theme.",
-      "coverImage": "https://source.unsplash.com/random?3",
-      "marqueeImage": "https://source.unsplash.com/random?3",
-      "id": "osdiissi"
-    },
-    {
-      "name": "City Lights",
-      "description": "Feel the city with this theme.",
-      "coverImage": "https://source.unsplash.com/random?4",
-      "marqueeImage": "https://source.unsplash.com/random?4",
-      "id": "akjsnkj"
-    },
-    {
-      "name": "Forest Haven",
-      "description": "Feel the trees with this theme.",
-      "coverImage": "https://source.unsplash.com/random?5",
-      "marqueeImage": "https://source.unsplash.com/random?5",
-      "id": "aposfiejoi"
     }
   ]
 }
