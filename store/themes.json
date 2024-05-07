@@ -4,7 +4,7 @@
       "name": "Gif Tests",
       "description": "A test of gifs!",
       "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/913c5360-d13a-430b-bc51-a84097c04aad/images/bird.png",
-      "marqueeImage": "https://source.unsplash.com/random",
+      "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/913c5360-d13a-430b-bc51-a84097c04aad/images/bird.png",
       "id": "913c5360-d13a-430b-bc51-a84097c04aad"
     }
   ]
