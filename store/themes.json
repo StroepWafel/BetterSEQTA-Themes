@@ -1,10 +1,10 @@
 {
   "themes": [
     {
-      "name": "Gif Tests",
-      "description": "A test of gifs!",
-      "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/913c5360-d13a-430b-bc51-a84097c04aad/images/bird.png",
-      "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/913c5360-d13a-430b-bc51-a84097c04aad/images/bird.png",
+      "name": "Hacker",
+      "description": "Unleash your inner coder with our Hacker Theme, featuring neon green code, dark mode aesthetics, and animated glitch effects.",
+      "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/913c5360-d13a-430b-bc51-a84097c04aad/images/banner.jpeg",
+      "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/913c5360-d13a-430b-bc51-a84097c04aad/images/marquee.jpeg",
       "id": "913c5360-d13a-430b-bc51-a84097c04aad"
     }
   ]
