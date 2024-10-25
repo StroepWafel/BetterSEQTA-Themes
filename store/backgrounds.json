@@ -7,6 +7,7 @@
       "lowResUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
       "highResUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=80",
       "name": "Beautiful Forest",
+      "featured": "True",
       "description": "A serene forest landscape with sunlight filtering through the trees."
     },
     {
@@ -16,6 +17,7 @@
       "lowResUrl": "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=800",
       "highResUrl": "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=2000",
       "name": "Misty Forest",
+      "featured": "True",
       "description": "A mysterious forest shrouded in mist."
     },
     {
@@ -25,6 +27,7 @@
       "lowResUrl": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg",
       "highResUrl": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_1280.jpg",
       "name": "Autumn Road",
+      "featured": "True",
       "description": "A picturesque road through an autumn forest."
     },
     {
@@ -34,6 +37,7 @@
       "lowResUrl": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=800",
       "highResUrl": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=2000",
       "name": "Mountain Lake",
+      "featured": "True",
       "description": "A serene mountain lake reflecting the surrounding landscape."
     },
     {
