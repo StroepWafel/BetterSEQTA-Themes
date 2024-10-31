@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Background Image Manager</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .preview-image {
+            max-width: 340px;
+            max-height: 170px;
+            object-fit: cover;
+        }
+        .category-pill {
+            cursor: pointer;
+            margin: 2px;
+        }
+        .category-pill.selected {
+            background-color: #0d6efd;
+            color: white;
+        }
+        .image-container {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        .nav-buttons {
+            margin: 20px 0;
+        }
+        .nav-buttons button {
+            margin: 0 10px;
+        }
+        .image-number {
+            font-size: 1.2em;
+            margin: 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>Background Image Manager</h1>
+        <div class="nav-buttons text-center">
+            <button class="btn btn-secondary" onclick="showPrevious()">Previous</button>
+            <span class="image-number" id="imageCounter"></span>
+            <button class="btn btn-secondary" onclick="showNext()">Next</button>
+        </div>
+        <div id="images"></div>
+    </div>
+
+    <script>
+        let categories = new Set({{ categories | tojson | safe }});
+        let baseUrl = "{{ base_url }}";
+        let existingData = {{ existing_data | tojson | safe }};
+        let currentData = {backgrounds: []};
+        let currentIndex = 0;
+
+        function addCategory() {
+            const newCategory = prompt("Enter new category name:");
+            if (newCategory && newCategory.trim()) {
+                categories.add(newCategory.trim());
+                renderImages(); // Re-render to show new category
+            }
+        }
+
+        async function saveCurrentImage() {
+            try {
+                const response = await fetch('/save', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(currentData)
+                });
+                if (!response.ok) {
+                    console.error('Error saving data');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        function showPrevious() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                renderImages();
+            }
+        }
+
+        function showNext() {
+            const images = {{ images | tojson | safe }};
+            if (currentIndex < images.length - 1) {
+                currentIndex++;
+                renderImages();
+            }
+        }
+
+        function toggleCategory(imageId, category) {
+            const imageData = currentData.backgrounds.find(bg => bg.id === imageId);
+            if (imageData) {
+                imageData.category = category;
+                saveCurrentImage();
+            }
+            renderImages();
+        }
+
+        function toggleFeatured(imageId) {
+            const imageData = currentData.backgrounds.find(bg => bg.id === imageId);
+            if (imageData) {
+                imageData.featured = !imageData.featured;
+                saveCurrentImage();
+            }
+            renderImages();
+        }
+
+        function updateName(imageId, name) {
+            const imageData = currentData.backgrounds.find(bg => bg.id === imageId);
+            if (imageData) {
+                imageData.name = name;
+                saveCurrentImage();
+            }
+        }
+
+        function renderImages() {
+            const container = document.getElementById('images');
+            container.innerHTML = '';
+            const counter = document.getElementById('imageCounter');
+            
+            const images = {{ images | tojson | safe }};
+            const image = images[currentIndex];
+            counter.textContent = `Image ${currentIndex + 1} of ${images.length}`;
+
+            const imageId = image.replace('.webp', '');
+            let imageData = currentData.backgrounds.find(bg => bg.id === imageId);
+            
+            if (!imageData) {
+                imageData = {
+                    id: imageId,
+                    category: "",
+                    type: "image",
+                    lowResUrl: `${baseUrl}/images/thumb/${imageId}.webp`,
+                    highResUrl: `${baseUrl}/images/full/${imageId}.webp`,
+                    name: "",
+                    featured: false
+                };
+                currentData.backgrounds.push(imageData);
+            }
+
+            const div = document.createElement('div');
+            div.className = 'image-container';
+            div.innerHTML = `
+                <img src="/backgrounds/images/thumb/${image}" class="preview-image mb-3">
+                <div class="mb-3">
+                    <input type="text" class="form-control" 
+                           placeholder="Image name" 
+                           value="${imageData.name}"
+                           onchange="updateName('${imageId}', this.value)">
+                </div>
+                <div class="mb-3">
+                    ${Array.from(categories).map(cat => `
+                        <span class="badge category-pill ${imageData.category === cat ? 'selected' : 'bg-secondary'}"
+                              onclick="toggleCategory('${imageId}', '${cat}')">${cat}</span>
+                    `).join('')}
+                    <span class="badge bg-success category-pill" onclick="addCategory()">+ Add Category</span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-check-label">
+                        <input type="checkbox" class="form-check-input" 
+                               ${imageData.featured ? 'checked' : ''}
+                               onclick="toggleFeatured('${imageId}')">
+                        Featured
+                    </label>
+                </div>
+            `;
+            container.appendChild(div);
+        }
+
+        // Load existing data and render first image
+        if (existingData.backgrounds) {
+            currentData = existingData;
+        }
+        renderImages();
+
+        // Add keyboard navigation
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'ArrowLeft') {
+                showPrevious();
+            } else if (event.key === 'ArrowRight') {
+                showNext();
+            }
+        });
+    </script>
+</body>
+</html>
