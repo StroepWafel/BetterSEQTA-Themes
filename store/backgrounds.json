@@ -1,506 +1,1227 @@
 {
   "backgrounds": [
     {
+      "category": "Ink",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-10.webp",
+      "id": "image-10",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-10.webp",
+      "name": "Ink",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-100.webp",
+      "id": "image-100",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-100.webp",
+      "name": "BMW, car photography",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-101.webp",
+      "id": "image-101",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-101.webp",
+      "name": "BMW",
+      "type": "image"
+    },
+    {
       "category": "Abstract",
-      "featured": "True",
-      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-1.webp",
-      "id": "image-1",
-      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-1.webp",
-      "name": "Blue",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-102.webp",
+      "id": "image-102",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-102.webp",
+      "name": "Orange, Red, Dark, Soft",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-103.webp",
+      "id": "image-103",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-103.webp",
+      "name": "Black, Dark, tube",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-104.webp",
+      "id": "image-104",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-104.webp",
+      "name": "Racing, Car photography",
+      "type": "image"
+    },
+    {
+      "category": "Aesthetic",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-105.webp",
+      "id": "image-105",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-105.webp",
+      "name": "Soft pink, palette, aesthetic",
       "type": "image"
     },
     {
       "category": "Nature",
-      "highResUrl": "https://joy1.videvo.net/videvo_files/video/free/2014-12/large_watermarked/Raindrops_Videvo_preview.mp4",
-      "id": "video-2",
-      "lowResUrl": "https://joy1.videvo.net/videvo_files/video/free/2014-12/small_watermarked/Raindrops_Videvo_preview.webm",
-      "name": "Raindrops",
-      "type": "video"
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-106.webp",
+      "id": "image-106",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-106.webp",
+      "name": "Mountains, dramatic, nature",
+      "type": "image"
     },
     {
-      "id": "image-10",
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-107.webp",
+      "id": "image-107",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-107.webp",
+      "name": "macro, grass, nature",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-108.webp",
+      "id": "image-108",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-108.webp",
+      "name": "Mountains, sky, soft palette, pink, purple",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-109.webp",
+      "id": "image-109",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-109.webp",
+      "name": "Moon, dramatic, blood moon",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-11.webp",
+      "id": "image-11",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-11.webp",
+      "name": "Abstract background, orange, blue, purple, red",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-110.webp",
+      "id": "image-110",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-110.webp",
+      "name": "purple abstract",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-111.webp",
+      "id": "image-111",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-111.webp",
+      "name": "blue abstract fractals",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-112.webp",
+      "id": "image-112",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-112.webp",
+      "name": "ocean, beach, cliff, nature photography",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-113.webp",
+      "id": "image-113",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-113.webp",
+      "name": "snow, forest, white",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-114.webp",
+      "id": "image-114",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-114.webp",
+      "name": "night sky, milky way, astro, photography",
+      "type": "image"
+    },
+    {
+      "category": "Gradients",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-115.webp",
+      "id": "image-115",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-115.webp",
+      "name": "yellow, orange, pink gradient",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-116.webp",
+      "id": "image-116",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-116.webp",
+      "name": "blue, abstract, green, turquoise",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-117.webp",
+      "id": "image-117",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-117.webp",
+      "name": "old car, retro",
+      "type": "image"
+    },
+    {
+      "category": "Ink",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-118.webp",
+      "id": "image-118",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-118.webp",
+      "name": "yellow ink, dark",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-119.webp",
+      "id": "image-119",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-119.webp",
+      "name": "BMW, car photography",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-12.webp",
+      "id": "image-12",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-12.webp",
+      "name": "fog, clouds, nature photography, trees, forest",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-120.webp",
+      "id": "image-120",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-120.webp",
+      "name": "sunset, ocean, water, blue",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-121.webp",
+      "id": "image-121",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-121.webp",
+      "name": "dramatic, dark, rocks",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-122.webp",
+      "id": "image-122",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-122.webp",
+      "name": "pink, glassmorphism, glass, soft",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-123.webp",
+      "id": "image-123",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-123.webp",
+      "name": "car, racing, panning shot, blur",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-124.webp",
+      "id": "image-124",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-124.webp",
+      "name": "Purple, abstract",
+      "type": "image"
+    },
+    {
+      "category": "Architecture",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-125.webp",
+      "id": "image-125",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-125.webp",
+      "name": "Rome, colosseum, dramatic, orange, sunset",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-126.webp",
+      "id": "image-126",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-126.webp",
+      "name": "snow, forest, white",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-127.webp",
+      "id": "image-127",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-127.webp",
+      "name": "glass, blue, abstract, pipes",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-128.webp",
+      "id": "image-128",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-128.webp",
+      "name": "fish, dramatic, red, dark",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-129.webp",
+      "id": "image-129",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-129.webp",
+      "name": "aurora, snow, lights, northern lights, sky",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-13.webp",
+      "id": "image-13",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-13.webp",
+      "name": "sunset, yellow, orange, nature",
+      "type": "image"
+    },
+    {
+      "category": "Architecture",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-130.webp",
+      "id": "image-130",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-130.webp",
+      "name": "crashed plane, dramatic, white, greyscale",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-131.webp",
+      "id": "image-131",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-131.webp",
+      "name": "Blue abstract circles",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-132.webp",
+      "id": "image-132",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-132.webp",
+      "name": "shoreline, beach, rocks, blue",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-133.webp",
+      "id": "image-133",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-133.webp",
+      "name": "mountains, dramatic, red, blue, fog",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-134.webp",
+      "id": "image-134",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-134.webp",
+      "name": "dark, blue, abstract, orange",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-135.webp",
+      "id": "image-135",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-135.webp",
+      "name": "Object, floating, blue, purple",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-136.webp",
+      "id": "image-136",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-136.webp",
+      "name": "mountains, nature, dark, night",
+      "type": "image"
+    },
+    {
+      "category": "Ink",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-137.webp",
+      "id": "image-137",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-137.webp",
+      "name": "ink, water, red, dark",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-14.webp",
+      "id": "image-14",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-14.webp",
+      "name": "northern lights, aurora, space, space station",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-15.webp",
+      "id": "image-15",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-15.webp",
+      "name": "clouds, dramatic, blue, sky",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-16.webp",
+      "id": "image-16",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-16.webp",
+      "name": "abstract, blue, yellow",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-17.webp",
+      "id": "image-17",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-17.webp",
+      "name": "shark, dramatic, dark, water, underwater",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-18.webp",
+      "id": "image-18",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-18.webp",
+      "name": "Tesla, car, high speed, dark, sunset",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-19.webp",
+      "id": "image-19",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-19.webp",
+      "name": "flower, dramatic, black, dark",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-2.webp",
+      "id": "image-2",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-2.webp",
+      "name": "iceland, waterfall, dramatic, yellow, blue, river",
+      "type": "image"
+    },
+    {
+      "category": "Architecture",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-20.webp",
+      "id": "image-20",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-20.webp",
+      "name": "city, skyline, sunset",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-21.webp",
+      "id": "image-21",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-21.webp",
+      "name": "car, black, against wall",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-22.webp",
+      "id": "image-22",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-22.webp",
+      "name": "sunset, mountains, dark, yellow",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-23.webp",
+      "id": "image-23",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-23.webp",
+      "name": "creek, waterfall, long exposure, red, green, moss",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-24.webp",
+      "id": "image-24",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-24.webp",
+      "name": "sky, space, night, stars, milky way",
+      "type": "image"
+    },
+    {
+      "category": "Gradients",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-25.webp",
+      "id": "image-25",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-25.webp",
+      "name": "gradient, pink, purple, orange",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-26.webp",
+      "id": "image-26",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-26.webp",
+      "name": "dolphins, drone, ocean, sea, water",
+      "type": "image"
+    },
+    {
+      "category": "Architecture",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-27.webp",
+      "id": "image-27",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-27.webp",
+      "name": "city, long exposure, night",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-28.webp",
+      "id": "image-28",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-28.webp",
+      "name": "iceland, waterfall, nature, sunset",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-29.webp",
+      "id": "image-29",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-29.webp",
+      "name": "nature, river, water, white, forest",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-3.webp",
+      "id": "image-3",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-3.webp",
+      "name": "abstract circles, dramatic, dark",
+      "type": "image"
+    },
+    {
+      "category": "Gradients",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-30.webp",
+      "id": "image-30",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-30.webp",
+      "name": "pink, light blue",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-31.webp",
+      "id": "image-31",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-31.webp",
+      "name": "pink abstract, purple, glass",
+      "type": "image"
+    },
+    {
+      "category": "",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-32.webp",
+      "id": "image-32",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-32.webp",
+      "name": "person, hoodie, dark, red, black",
+      "type": "image"
+    },
+    {
+      "category": "Gradients",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-33.webp",
+      "id": "image-33",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-33.webp",
+      "name": "pink, green, blue, yellow",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-34.webp",
+      "id": "image-34",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-34.webp",
+      "name": "shoreline, long exposure, sunset",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-35.webp",
+      "id": "image-35",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-35.webp",
+      "name": "forest, mountains, lake",
+      "type": "image"
+    },
+    {
+      "category": "Ink",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-36.webp",
+      "id": "image-36",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-36.webp",
+      "name": "blue ink, black",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-37.webp",
+      "id": "image-37",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-37.webp",
+      "name": "orange, green abstract",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-38.webp",
+      "id": "image-38",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-38.webp",
+      "name": "dark, green, gray",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-39.webp",
+      "id": "image-39",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-39.webp",
+      "name": "flower, nature, dark, blue, orange",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-4.webp",
+      "id": "image-4",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-4.webp",
+      "name": "abstract, blue, orange, red",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-40.webp",
+      "id": "image-40",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-40.webp",
+      "name": "blue, purple abstract",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-41.webp",
+      "id": "image-41",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-41.webp",
+      "name": "trees, lake abstract",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-42.webp",
+      "id": "image-42",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-42.webp",
+      "name": "black, abstract",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-43.webp",
+      "id": "image-43",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-43.webp",
+      "name": "lion, lioness, dark, dramatic",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-44.webp",
+      "id": "image-44",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-44.webp",
+      "name": "person, abstract, blue",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-45.webp",
+      "id": "image-45",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-45.webp",
+      "name": "lamo, lamborghini, yellow, car photography",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-46.webp",
+      "id": "image-46",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-46.webp",
+      "name": "long exposure, mountains, alps, snow, forest, road",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-47.webp",
+      "id": "image-47",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-47.webp",
+      "name": "ocean, water rock, island",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-48.webp",
+      "id": "image-48",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-48.webp",
+      "name": "sky, water, ocean, sunset, clouds, ",
+      "type": "image"
+    },
+    {
+      "category": "Gradients",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-49.webp",
+      "id": "image-49",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-49.webp",
+      "name": "pink, purple, turqoise",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-5.webp",
+      "id": "image-5",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-5.webp",
+      "name": "car, white",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-50.webp",
+      "id": "image-50",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-50.webp",
+      "name": "waves, water, foam, sea",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-51.webp",
+      "id": "image-51",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-51.webp",
+      "name": "tiger, baby, cub, animal",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-52.webp",
+      "id": "image-52",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-52.webp",
+      "name": "purple, dark",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-53.webp",
+      "id": "image-53",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-53.webp",
+      "name": "car, drift, skid, smoke, racing",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-54.webp",
+      "id": "image-54",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-54.webp",
+      "name": "road, mountains, grass",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-55.webp",
+      "id": "image-55",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-55.webp",
+      "name": "northern lights, aurora, mountains",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-56.webp",
+      "id": "image-56",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-56.webp",
+      "name": "stars, sky, night",
+      "type": "image"
+    },
+    {
+      "category": "Abstract",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-57.webp",
+      "id": "image-57",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-57.webp",
+      "name": "abstract, blue, circles",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-58.webp",
+      "id": "image-58",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-58.webp",
+      "name": "water, wave, curl, ocean, sea",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-59.webp",
+      "id": "image-59",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-59.webp",
+      "name": "flowers, white, green, nature",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-6.webp",
+      "id": "image-6",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-6.webp",
+      "name": "nature, abstract, blue",
+      "type": "image"
+    },
+    {
+      "category": "Nature",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-60.webp",
+      "id": "image-60",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-60.webp",
+      "name": "river, white water, trees, forest, green, nature",
+      "type": "image"
+    },
+    {
+      "category": "Gradients",
+      "featured": false,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-61.webp",
+      "id": "image-61",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-61.webp",
+      "name": "pink, blue, purple",
+      "type": "image"
+    },
+    {
+      "category": "Car",
+      "featured": true,
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-62.webp",
+      "id": "image-62",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-62.webp",
+      "name": "car, porsche, photography, dramatic",
+      "type": "image"
+    },
+    {
+      "id": "image-63",
+      "category": "Car",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-63.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-63.webp",
+      "name": "car, blue, carpark, headlights, parking lot, dark, dramatic",
+      "featured": true
+    },
+    {
+      "id": "image-64",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-64.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-64.webp",
+      "name": "railway, nature, day, soft, orange",
+      "featured": true
+    },
+    {
+      "id": "image-65",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-65.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-65.webp",
+      "name": "waterfall, cliff, snow, sky, dramatic, cold, blue",
+      "featured": true
+    },
+    {
+      "id": "image-66",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-66.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-66.webp",
+      "name": "Tiger, animal, nature",
+      "featured": false
+    },
+    {
+      "id": "image-67",
       "category": "Ink",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-10.webp",
-      "highResUrl": "/images/full/image-10.webp",
-      "name": "Ink",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-67.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-67.webp",
+      "name": "ink, beautiful abstract, orange, gold, white",
       "featured": false
     },
     {
-      "id": "image-100",
-      "category": "Car",
+      "id": "image-68",
+      "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-100.webp",
-      "highResUrl": "/images/full/image-100.webp",
-      "name": "BMW, car photography",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-68.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-68.webp",
+      "name": "blue, jellyfish, animal, nature",
       "featured": false
     },
     {
-      "id": "image-101",
-      "category": "Car",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-101.webp",
-      "highResUrl": "/images/full/image-101.webp",
-      "name": "BMW",
-      "featured": false
-    },
-    {
-      "id": "image-102",
+      "id": "image-69",
       "category": "Abstract",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-102.webp",
-      "highResUrl": "/images/full/image-102.webp",
-      "name": "Orange, Red, Dark, Soft",
-      "featured": true
-    },
-    {
-      "id": "image-103",
-      "category": "Abstract",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-103.webp",
-      "highResUrl": "/images/full/image-103.webp",
-      "name": "Black, Dark, tube",
-      "featured": true
-    },
-    {
-      "id": "image-104",
-      "category": "Car",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-104.webp",
-      "highResUrl": "/images/full/image-104.webp",
-      "name": "Racing, Car photography",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-69.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-69.webp",
+      "name": "purple, dark, pink black, abstract",
       "featured": false
     },
     {
-      "id": "image-105",
+      "id": "image-7",
+      "category": "Abstract",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-7.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-7.webp",
+      "name": "purple, abstract",
+      "featured": false
+    },
+    {
+      "id": "image-70",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-70.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-70.webp",
+      "name": "mountains, snow, nature",
+      "featured": false
+    },
+    {
+      "id": "image-71",
+      "category": "Car",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-71.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-71.webp",
+      "name": "BMW, blue, car, road",
+      "featured": false
+    },
+    {
+      "id": "image-72",
+      "category": "Ink",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-72.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-72.webp",
+      "name": "Ink, abstract, brown",
+      "featured": false
+    },
+    {
+      "id": "image-73",
       "category": "Aesthetic",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-105.webp",
-      "highResUrl": "/images/full/image-105.webp",
-      "name": "Soft pink, palette, aesthetic",
-      "featured": true
-    },
-    {
-      "id": "image-106",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-106.webp",
-      "highResUrl": "/images/full/image-106.webp",
-      "name": "Mountains, dramatic, nature",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-73.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-73.webp",
+      "name": "abstract, purple, aesthetic",
       "featured": false
     },
     {
-      "id": "image-107",
-      "category": "Nature",
+      "id": "image-74",
+      "category": "Ink",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-107.webp",
-      "highResUrl": "/images/full/image-107.webp",
-      "name": "macro, grass, nature",
-      "featured": true
-    },
-    {
-      "id": "image-108",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-108.webp",
-      "highResUrl": "/images/full/image-108.webp",
-      "name": "Mountains, sky, soft palette, pink, purple",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-74.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-74.webp",
+      "name": "blue, ink",
       "featured": false
     },
     {
-      "id": "image-109",
+      "id": "image-75",
       "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-109.webp",
-      "highResUrl": "/images/full/image-109.webp",
-      "name": "Moon, dramatic, blood moon",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-75.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-75.webp",
+      "name": "mountains, clouds, nature",
       "featured": false
     },
     {
-      "id": "image-11",
+      "id": "image-76",
       "category": "Abstract",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-11.webp",
-      "highResUrl": "/images/full/image-11.webp",
-      "name": "Abstract background, orange, blue, purple, red",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-76.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-76.webp",
+      "name": "abstract, purple, mountains",
       "featured": false
     },
     {
-      "id": "image-110",
-      "category": "Abstract",
+      "id": "image-77",
+      "category": "Car",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-110.webp",
-      "highResUrl": "/images/full/image-110.webp",
-      "name": "purple abstract",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-77.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-77.webp",
+      "name": "BMW, car, photography, blue, night",
       "featured": true
     },
     {
-      "id": "image-111",
-      "category": "Abstract",
+      "id": "image-78",
+      "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-111.webp",
-      "highResUrl": "/images/full/image-111.webp",
-      "name": "blue abstract fractals",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-78.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-78.webp",
+      "name": "creek, waterfall, water, forest",
       "featured": false
     },
     {
-      "id": "image-112",
-      "category": "Nature",
+      "id": "image-79",
+      "category": "Car",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-112.webp",
-      "highResUrl": "/images/full/image-112.webp",
-      "name": "ocean, beach, cliff, nature photography",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-79.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-79.webp",
+      "name": "car, red, racing, road",
       "featured": true
     },
     {
-      "id": "image-113",
+      "id": "image-8",
       "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-113.webp",
-      "highResUrl": "/images/full/image-113.webp",
-      "name": "snow, forest, white",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-8.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-8.webp",
+      "name": "texture, ferns, green, nature, dark, plants",
       "featured": true
     },
     {
-      "id": "image-114",
+      "id": "image-80",
+      "category": "Ink",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-80.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-80.webp",
+      "name": "ink, red, white",
+      "featured": false
+    },
+    {
+      "id": "image-81",
       "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-114.webp",
-      "highResUrl": "/images/full/image-114.webp",
-      "name": "night sky, milky way, astro, photography",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-81.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-81.webp",
+      "name": "waterfall, nature",
+      "featured": false
+    },
+    {
+      "id": "image-82",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-82.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-82.webp",
+      "name": "drone, ocean, waves, rocks, foam",
       "featured": true
     },
     {
-      "id": "image-115",
+      "id": "image-83",
+      "category": "Car",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-83.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-83.webp",
+      "name": "BMW, car, brown",
+      "featured": false
+    },
+    {
+      "id": "image-84",
       "category": "Gradients",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-115.webp",
-      "highResUrl": "/images/full/image-115.webp",
-      "name": "yellow, orange, pink gradient",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-84.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-84.webp",
+      "name": "Gradient, pink, yellow, orange",
       "featured": false
     },
     {
-      "id": "image-116",
-      "category": "Abstract",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-116.webp",
-      "highResUrl": "/images/full/image-116.webp",
-      "name": "blue, abstract, green, turquoise",
-      "featured": false
-    },
-    {
-      "id": "image-117",
-      "category": "Car",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-117.webp",
-      "highResUrl": "/images/full/image-117.webp",
-      "name": "old car, retro",
-      "featured": false
-    },
-    {
-      "id": "image-118",
-      "category": "Ink",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-118.webp",
-      "highResUrl": "/images/full/image-118.webp",
-      "name": "yellow ink, dark",
-      "featured": false
-    },
-    {
-      "id": "image-119",
-      "category": "Car",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-119.webp",
-      "highResUrl": "/images/full/image-119.webp",
-      "name": "BMW, car photography",
-      "featured": false
-    },
-    {
-      "id": "image-12",
+      "id": "image-85",
       "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-12.webp",
-      "highResUrl": "/images/full/image-12.webp",
-      "name": "fog, clouds, nature photography, trees, forest",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-85.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-85.webp",
+      "name": "milky way, nature, sky, night, photography, astro, nevada, desert",
       "featured": true
     },
     {
-      "id": "image-120",
-      "category": "Nature",
+      "id": "image-86",
+      "category": "Abstract",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-120.webp",
-      "highResUrl": "/images/full/image-120.webp",
-      "name": "sunset, ocean, water, blue",
-      "featured": false
-    },
-    {
-      "id": "image-121",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-121.webp",
-      "highResUrl": "/images/full/image-121.webp",
-      "name": "dramatic, dark, rocks",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-86.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-86.webp",
+      "name": "macos, dark, gradient, futuristic, abstract",
       "featured": true
     },
     {
-      "id": "image-122",
-      "category": "Abstract",
+      "id": "image-87",
+      "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-122.webp",
-      "highResUrl": "/images/full/image-122.webp",
-      "name": "pink, glassmorphism, glass, soft",
-      "featured": false
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-87.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-87.webp",
+      "name": "road, drone, orange, white, snow, cars",
+      "featured": true
     },
     {
-      "id": "image-123",
-      "category": "Car",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-123.webp",
-      "highResUrl": "/images/full/image-123.webp",
-      "name": "car, racing, panning shot, blur",
-      "featured": false
-    },
-    {
-      "id": "image-124",
-      "category": "Abstract",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-124.webp",
-      "highResUrl": "/images/full/image-124.webp",
-      "name": "Purple, abstract",
-      "featured": false
-    },
-    {
-      "id": "image-125",
+      "id": "image-88",
       "category": "Architecture",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-125.webp",
-      "highResUrl": "/images/full/image-125.webp",
-      "name": "Rome, colosseum, dramatic, orange, sunset",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-88.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-88.webp",
+      "name": "white, blue, futuristic",
       "featured": false
     },
     {
-      "id": "image-126",
+      "id": "image-89",
       "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-126.webp",
-      "highResUrl": "/images/full/image-126.webp",
-      "name": "snow, forest, white",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-89.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-89.webp",
+      "name": "flowers, nature, pink, aesthetic",
       "featured": false
     },
     {
-      "id": "image-127",
+      "id": "image-9",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-9.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-9.webp",
+      "name": "lake, water, trees",
+      "featured": false
+    },
+    {
+      "id": "image-90",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-90.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-90.webp",
+      "name": "mountains, nature, lake",
+      "featured": false
+    },
+    {
+      "id": "image-91",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-91.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-91.webp",
+      "name": "mountains, trees, orange, white, water",
+      "featured": true
+    },
+    {
+      "id": "image-92",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-92.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-92.webp",
+      "name": "jeep, car, water, road, mountains, fog, rain",
+      "featured": true
+    },
+    {
+      "id": "image-93",
+      "category": "Aesthetic",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-93.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-93.webp",
+      "name": "ocean, waves, sea, aesthetic, orange, sky, pink",
+      "featured": true
+    },
+    {
+      "id": "image-94",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-94.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-94.webp",
+      "name": "mountains, moon, ice, snow",
+      "featured": false
+    },
+    {
+      "id": "image-95",
+      "category": "Nature",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-95.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-95.webp",
+      "name": "mountains, clouds, sunset, forest",
+      "featured": false
+    },
+    {
+      "id": "image-96",
       "category": "Abstract",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-127.webp",
-      "highResUrl": "/images/full/image-127.webp",
-      "name": "glass, blue, abstract, pipes",
-      "featured": true
-    },
-    {
-      "id": "image-128",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-128.webp",
-      "highResUrl": "/images/full/image-128.webp",
-      "name": "fish, dramatic, red, dark",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-96.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-96.webp",
+      "name": "abstract, blue, dark",
       "featured": false
     },
     {
-      "id": "image-129",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-129.webp",
-      "highResUrl": "/images/full/image-129.webp",
-      "name": "aurora, snow, lights, northern lights, sky",
-      "featured": true
-    },
-    {
-      "id": "image-13",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-13.webp",
-      "highResUrl": "/images/full/image-13.webp",
-      "name": "sunset, yellow, orange, nature",
-      "featured": false
-    },
-    {
-      "id": "image-130",
-      "category": "Architecture",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-130.webp",
-      "highResUrl": "/images/full/image-130.webp",
-      "name": "crashed plane, dramatic, white, greyscale",
-      "featured": false
-    },
-    {
-      "id": "image-131",
+      "id": "image-97",
       "category": "Abstract",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-131.webp",
-      "highResUrl": "/images/full/image-131.webp",
-      "name": "Blue abstract circles",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-97.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-97.webp",
+      "name": "orange, abstract, ink",
       "featured": false
     },
     {
-      "id": "image-132",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-132.webp",
-      "highResUrl": "/images/full/image-132.webp",
-      "name": "shoreline, beach, rocks, blue",
-      "featured": false
-    },
-    {
-      "id": "image-133",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-133.webp",
-      "highResUrl": "/images/full/image-133.webp",
-      "name": "mountains, dramatic, red, blue, fog",
-      "featured": true
-    },
-    {
-      "id": "image-134",
+      "id": "image-98",
       "category": "Abstract",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-134.webp",
-      "highResUrl": "/images/full/image-134.webp",
-      "name": "dark, blue, abstract, orange",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-98.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-98.webp",
+      "name": "abstract, blue, orange",
       "featured": false
     },
     {
-      "id": "image-135",
-      "category": "Abstract",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-135.webp",
-      "highResUrl": "/images/full/image-135.webp",
-      "name": "Object, floating, blue, purple",
-      "featured": false
-    },
-    {
-      "id": "image-136",
+      "id": "image-99",
       "category": "Nature",
       "type": "image",
-      "lowResUrl": "/images/thumb/image-136.webp",
-      "highResUrl": "/images/full/image-136.webp",
-      "name": "mountains, nature, dark, night",
-      "featured": true
-    },
-    {
-      "id": "image-137",
-      "category": "Ink",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-137.webp",
-      "highResUrl": "/images/full/image-137.webp",
-      "name": "ink, water, red, dark",
-      "featured": false
-    },
-    {
-      "id": "image-14",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-14.webp",
-      "highResUrl": "/images/full/image-14.webp",
-      "name": "northern lights, aurora, space, space station",
-      "featured": true
-    },
-    {
-      "id": "image-15",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-15.webp",
-      "highResUrl": "/images/full/image-15.webp",
-      "name": "clouds, dramatic, blue, sky",
-      "featured": false
-    },
-    {
-      "id": "image-16",
-      "category": "Abstract",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-16.webp",
-      "highResUrl": "/images/full/image-16.webp",
-      "name": "abstract, blue, yellow",
-      "featured": false
-    },
-    {
-      "id": "image-17",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-17.webp",
-      "highResUrl": "/images/full/image-17.webp",
-      "name": "shark, dramatic, dark, water, underwater",
-      "featured": true
-    },
-    {
-      "id": "image-18",
-      "category": "Car",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-18.webp",
-      "highResUrl": "/images/full/image-18.webp",
-      "name": "Tesla, car, high speed, dark, sunset",
-      "featured": false
-    },
-    {
-      "id": "image-19",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-19.webp",
-      "highResUrl": "/images/full/image-19.webp",
-      "name": "flower, dramatic, black, dark",
-      "featured": false
-    },
-    {
-      "id": "image-2",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-2.webp",
-      "highResUrl": "/images/full/image-2.webp",
-      "name": "iceland, waterfall, dramatic, yellow, blue, river",
-      "featured": true
-    },
-    {
-      "id": "image-20",
-      "category": "Architecture",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-20.webp",
-      "highResUrl": "/images/full/image-20.webp",
-      "name": "city, skyline, sunset",
-      "featured": true
-    },
-    {
-      "id": "image-21",
-      "category": "Car",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-21.webp",
-      "highResUrl": "/images/full/image-21.webp",
-      "name": "car, black, against wall",
-      "featured": false
-    },
-    {
-      "id": "image-22",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-22.webp",
-      "highResUrl": "/images/full/image-22.webp",
-      "name": "sunset, mountains, dark, yellow",
-      "featured": false
-    },
-    {
-      "id": "image-23",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-23.webp",
-      "highResUrl": "/images/full/image-23.webp",
-      "name": "creek, waterfall, long exposure, red, green, moss",
-      "featured": false
-    },
-    {
-      "id": "image-24",
-      "category": "Nature",
-      "type": "image",
-      "lowResUrl": "/images/thumb/image-24.webp",
-      "highResUrl": "/images/full/image-24.webp",
-      "name": "sky, space, night, stars, milky way",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-99.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-99.webp",
+      "name": "nature, beach, water, ocean, sea, rocks",
       "featured": true
     }
   ]
