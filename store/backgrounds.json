@@ -1223,6 +1223,24 @@
       "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-99.webp",
       "name": "nature, beach, water, ocean, sea, rocks",
       "featured": true
+    },
+    {
+      "id": "image-138",
+      "category": "Games",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-138.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-138.webp",
+      "name": "day, minecraft, dog, bed, camp, game",
+      "featured": true
+    },
+    {
+      "id": "image-139",
+      "category": "Games",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-139.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-139.webp",
+      "name": "night, minecraft, dog, bed, camp, game",
+      "featured": true
     }
   ]
 }
