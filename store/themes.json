@@ -13,6 +13,13 @@
       "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/9a9786d1-b5fc-4a91-8c7a-f8bf7f7679ad/images/banner.webp",
       "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/9a9786d1-b5fc-4a91-8c7a-f8bf7f7679ad/images/marquee.webp",
       "id": "9a9786d1-b5fc-4a91-8c7a-f8bf7f7679ad"
+    },
+    {
+      "name": "Rainforest",
+      "description": "Get a beautiful and relaxing take on SEQTA with a soft dark forest theme.. (my personal favourite!)",
+      "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/bb0aaf40-55ef-40f7-bc64-93b67ef96c01/images/banner.webp",
+      "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/bb0aaf40-55ef-40f7-bc64-93b67ef96c01/images/marquee.webp",
+      "id": "bb0aaf40-55ef-40f7-bc64-93b67ef96c01"
     }
   ]
 }
